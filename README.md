@@ -4,4 +4,4 @@ Hi there 👋
 - 🌱 I’m currently learning JS and manual testing
 - 📫 How to reach me: 
 @arloualiaksandr (telegram)
-
+arlou.aliaksandr@gmail.com
